@@ -300,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj",
       "projectName": "Modelo.Domain",
-      "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj",
+      "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj",
       "packagesPath": "C:\\Users\\pirizao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\obj\\",
+      "outputPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -323,8 +323,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj"
+            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj": {
+              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj"
             }
           }
         }

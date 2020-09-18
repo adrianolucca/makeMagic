@@ -8683,11 +8683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\MakeMagic\\MakeMagic.csproj",
+      "projectUniqueName": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
       "projectName": "MakeMagic",
-      "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\MakeMagic\\MakeMagic.csproj",
+      "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
       "packagesPath": "C:\\Users\\pirizao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\MakeMagic\\obj\\",
+      "outputPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8706,14 +8706,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj"
+            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj": {
+              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj"
             },
-            "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj"
+            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj"
             },
-            "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Service\\Modelo.Service.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Service\\Modelo.Service.csproj"
+            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj": {
+              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj"
             }
           }
         }

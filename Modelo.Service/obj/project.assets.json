@@ -318,11 +318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Service\\Modelo.Service.csproj",
+      "projectUniqueName": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj",
       "projectName": "Modelo.Service",
-      "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Service\\Modelo.Service.csproj",
+      "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj",
       "packagesPath": "C:\\Users\\pirizao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Service\\obj\\",
+      "outputPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -341,8 +341,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Domain\\Modelo.Domain.csproj"
+            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj": {
+              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj"
             }
           }
         }

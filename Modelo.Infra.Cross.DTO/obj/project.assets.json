@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\pirizao\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
       "projectName": "Modelo.Infra.Cross.DTO",
-      "projectPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
+      "projectPath": "C:\\Users\\pirizao\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
       "packagesPath": "C:\\Users\\pirizao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pirizao\\Desktop\\hungrypizza\\MakeMagic2\\Modelo.Infra.Cross.DTO\\obj\\",
+      "outputPath": "C:\\Users\\pirizao\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

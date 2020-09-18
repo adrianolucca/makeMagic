@@ -16,7 +16,10 @@ namespace MakeMagic.Controllers
     {
         private readonly IPersonagemService _personagemService;
 
-
+        /// <summary>
+        /// ok
+        /// </summary>
+        /// <param name="personagemService"></param>
         public MakeMagicController(IPersonagemService personagemService)
         {
             _personagemService = personagemService;
