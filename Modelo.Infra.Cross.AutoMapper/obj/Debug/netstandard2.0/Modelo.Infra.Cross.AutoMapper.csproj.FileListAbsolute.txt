@@ -24,3 +24,17 @@ C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.AutoMapper\ob
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.csproj.CopyComplete
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.dll
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.deps.json
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Domain.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Domain.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.csprojAssemblyReference.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.AssemblyInfo.cs
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.csproj.CopyComplete
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.AutoMapper\obj\Debug\netstandard2.0\Modelo.Infra.Cross.AutoMapper.pdb

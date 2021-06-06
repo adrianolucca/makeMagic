@@ -20,3 +20,15 @@ C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Domain\obj\Debug\netstand
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.csproj.CopyComplete
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.dll
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\bin\Debug\netstandard2.0\Modelo.Domain.deps.json
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\bin\Debug\netstandard2.0\Modelo.Domain.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\bin\Debug\netstandard2.0\Modelo.Domain.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.csprojAssemblyReference.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.AssemblyInfo.cs
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.csproj.CopyComplete
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Domain\obj\Debug\netstandard2.0\Modelo.Domain.pdb

@@ -8677,23 +8677,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pirizao\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Adriano\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
+      "projectUniqueName": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
       "projectName": "MakeMagic",
-      "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
-      "packagesPath": "C:\\Users\\pirizao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\MakeMagic\\obj\\",
+      "projectPath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\MakeMagic\\MakeMagic.csproj",
+      "packagesPath": "C:\\Users\\Adriano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\MakeMagic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pirizao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adriano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8705,15 +8706,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj"
+            "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Domain\\Modelo.Domain.csproj"
             },
-            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj"
+            "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj"
             },
-            "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj": {
-              "projectPath": "C:\\Users\\pirizao\\source\\repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj"
+            "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj": {
+              "projectPath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Service\\Modelo.Service.csproj"
             }
           }
         }
@@ -8726,6 +8728,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -8762,7 +8765,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

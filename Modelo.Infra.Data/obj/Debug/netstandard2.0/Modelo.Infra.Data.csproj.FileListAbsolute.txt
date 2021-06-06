@@ -24,3 +24,17 @@ C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Data\obj\Debug\nets
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.csproj.CopyComplete
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.dll
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Infra.Data.deps.json
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Infra.Data.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Infra.Data.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Domain.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Domain.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.csproj.CopyComplete
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Data\obj\Debug\netstandard2.0\Modelo.Infra.Data.pdb

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MakeMagic\\Controllers",
+    "\\Modelo.Infra.Data",
+    "\\Modelo.Infra.Data\\Repository",
+    "\\Modelo.Service"
   ],
-  "SelectedNode": "\\MakeMagic.sln",
+  "SelectedNode": "\\Modelo.Infra.Data\\Repository\\BaseRepository.cs",
   "PreviewInSolutionExplorer": false
 }

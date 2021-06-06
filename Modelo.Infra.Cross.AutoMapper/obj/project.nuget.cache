@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPbkIdSYMHBNq6TRTJn/Y2xCLFfUzINOM8uk17NBiTgYwfZysxD3lXCo71gAaHNkl4Om68cPM81xlkBi9YRvZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.AutoMapper\\Modelo.Infra.Cross.AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adriano\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Adriano\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

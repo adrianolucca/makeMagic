@@ -13,3 +13,12 @@ C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.DTO\obj\Debug
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.AssemblyInfo.cs
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
 C:\Users\pirizao\Desktop\hungrypizza\MakeMagic2\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.deps.json
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\bin\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.csprojAssemblyReference.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.AssemblyInfoInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.AssemblyInfo.cs
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.dll
+C:\Users\Adriano\Source\Repos\makeMagic\Modelo.Infra.Cross.DTO\obj\Debug\netstandard2.0\Modelo.Infra.Cross.DTO.pdb
