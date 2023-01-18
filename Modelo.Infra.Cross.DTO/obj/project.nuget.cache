@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fCtkR807veBL0Gg+8qFYcwzaoyXEtgSRe3mQJvcUyTureH652DPxOXxC3NZPd5Gc6g1PLlXgnWzbFFUVPtmk1g==",
+  "dgSpecHash": "QVlwBHNt5cfEj+olJ2wffMA3l5794huNmZU88TKImcGxIKurrHt06x6uMgfOMsOmuJZ9GqV1oOKZ5FYZN7CgwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adriano\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
+  "projectFilePath": "C:\\Users\\piriz\\Source\\Repos\\makeMagic\\Modelo.Infra.Cross.DTO\\Modelo.Infra.Cross.DTO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Adriano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Adriano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\piriz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\piriz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
